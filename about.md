@@ -1,5 +1,5 @@
 ---
-title: Manuel Ferández Díaz de Castro
+title: Manuel Fernández Díaz de Castro
 permalink: /about/
 layout: page
 excerpt: 
